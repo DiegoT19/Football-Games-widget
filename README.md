@@ -19,7 +19,7 @@ Step 3:
 
 Step 4: Create the Widget
     
-    Download team_widget.py
+    Download team_widget.py and CHANGE THE SPECIFIED SECTIONS TO YOUR TEAM'S NAME!!
 
 Step 5:
   Save the script (e.g., team_widget.py) and run:
