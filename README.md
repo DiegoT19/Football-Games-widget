@@ -17,8 +17,9 @@ Step 3:
   Go to https://www.football-data.org/ and sign up for a free API key.
   Once registered, save your API key for later.
 
-Step 4: Create the Widget \n
-  Download the code provided
+Step 4: Create the Widget
+    
+    Download team_widget.py
 
 Step 5:
   Save the script (e.g., team_widget.py) and run:
