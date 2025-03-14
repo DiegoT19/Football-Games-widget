@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 # Your Football Data API key here
-API_KEY = "95cc6924957f4ef19c1e07a12b251f47"
+API_KEY = "YOUR KEY"
 
 # Function to fetch upcoming FC Barcelona matches
 def get_barca_fixtures():
